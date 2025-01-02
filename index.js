@@ -3910,6 +3910,31 @@ case "fuck": {
     break;
 }
 
+case "69":{
+	ejecutarNSFW("69", "hizo un 69 con");
+    break;
+}
+	case "touch":{
+		ejecutarNSFW("touch", "le toco los pechos a")
+		break;
+	}
+
+	case "chest":{ 
+		ejecutarNSFW("chest", "le lambio la vagina a")
+		break;
+	}
+
+	case "pussy":{
+		ejecutarNSFW("pussy", "le lambio el pussy a")
+		break;
+	}
+
+
+
+
+
+
+		
 // Función genérica para manejar comandos NSFW
 async function ejecutarNSFW(categoria, accion) {
     if (!isGroup) {
