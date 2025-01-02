@@ -371,7 +371,7 @@ return admins
 }
 
 // Constantes Editables
-const prefixo = "-"; // Cambiar Prefijo Aquí
+const prefixo = "#"; // Cambiar Prefijo Aquí
 const wm = "Destiny Oficial" // cambiar creador
 let botname = "mahiru shiina 💛" // Cambiar nombre del bot
 let moneda = "nekoCoins" //cambia el nombre de la moneda 
@@ -1556,7 +1556,7 @@ case "botinfo":
 ❒ *Host:* host my Heart
 ❒ *Conectado a:* 736w72-o7299
 ❒ *Tipo:* owner-bot
-❐ *dueño:* 
+❐ *dueño:* 523132137376
 ❒ *creador:* Destiny Oficial
 
 > *Sitio Anuncios* "https://animeoffis.wixsite.com/neko"
